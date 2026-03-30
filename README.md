@@ -1,4 +1,4 @@
-# python-beginner-projects
+# Python-Beginner-Projects
 Basic Programs for practice
 ## Basic Number Guessing Game
 A simple Number Guessing game using concepts like loops and conditions in Python
